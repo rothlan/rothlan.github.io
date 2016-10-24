@@ -1,4 +1,5 @@
-path="c:\includes|.\profiles|..\simc_scripts"
 guild.simc
-html=light_movement.html
+html=..\light_movement.html
+json=..\light_movement.json
+xml=..\light_movement.xml
 fight_style=LightMovement
