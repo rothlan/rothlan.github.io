@@ -1,0 +1,8 @@
+Rothlandra_Offline.simc
+
+iterations=10
+max_time=400
+vary_combat_length=0.2
+calculate_scale_factors=0
+skill=0.95
+ilevel_raid_report=1

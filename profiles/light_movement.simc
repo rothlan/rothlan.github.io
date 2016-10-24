@@ -1,0 +1,4 @@
+path="c:\includes|.\profiles|..\simc_scripts"
+guild.simc
+html=light_movement.html
+fight_style=LightMovement
