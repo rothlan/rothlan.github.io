@@ -5,6 +5,7 @@ armory=us,thrall,Vait,cache=1
 armory=us,thrall,Bowflexn,cache=1
 armory=us,thrall,Alacastria,cache=1
 armory=us,thrall,Zipi,cache=1
+talents=2231223
 armory=us,thrall,Faelik,cache=1
 armory=us,thrall,Raji,cache=1
 armory=us,thrall,Oinkie,cache=1
@@ -13,7 +14,7 @@ armory=us,thrall,Sarkul,cache=1
 armory=us,thrall,Rothlandra,cache=1
 shoulder=arcane_exterminators_shoulderguards,id=134472,bonus_id=1482:1726
 
-iterations=100
+iterations=10000
 max_time=400
 vary_combat_length=0.2
 
