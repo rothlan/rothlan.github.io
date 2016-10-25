@@ -1,5 +1,4 @@
+http_clear_cache=1
 guild.simc
 html=..\light_movement.html
-json=..\light_movement.json
-xml=..\light_movement.xml
 fight_style=LightMovement

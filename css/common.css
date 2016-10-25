@@ -9,10 +9,13 @@ body {
 }
 
 .guild-logo {
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #links_to_sims {
+    font-size: 24px;
     text-align: center;
 }
 
